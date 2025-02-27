@@ -9,3 +9,9 @@ https://stackoverflow.com/questions/34411919/android-and-external-usb-barcode-sc
 
 
 Hem Activity hemde Fragment içerisinde USB barkod okuyucu entegrasyonu yapılabilir.
+
+
+
+## Screenshots
+
+![Screenshot](step1.jpg)
